@@ -66,3 +66,8 @@ terraform.rc
 - файлы с именами override.tf и override.tf.json, а также файлы, оканчивающиеся на  _override.tf и _override.tf.json
 - файл с именем .terraform.tfstate.lock.info
 - файлы с именами .terraformrc и terraform.rc
+
+
+## Изменения при помощи IDE Pycharm
+
+### 1. первый коммит в IDE
