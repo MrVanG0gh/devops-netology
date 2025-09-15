@@ -7,7 +7,7 @@
 
 1st change
 
-### gitignore
+### .gitignore
 
 ```
 # Local .terraform directories
